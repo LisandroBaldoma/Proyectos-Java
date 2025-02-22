@@ -1,6 +1,3 @@
-Aquí tienes el README ajustado:
-
----
 
 # Backend con Java - Prácticas del Curso de Henry
 
